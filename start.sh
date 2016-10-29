@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # This is the start.sh file for Genisys
-# Please input ./start.sh to start server
+# Please input ./start.sh to start hacks
 
 # Variable define
 DIR="$(cd -P "$( dirname "${BASH_SOURCE[0]}" )" && pwd)"
